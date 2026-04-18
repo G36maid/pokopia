@@ -1,0 +1,1415 @@
+[
+  {
+    "id": 101,
+    "name": { "en": "Chansey", "zh_TW": "吉利蛋" },
+    "types": [{ "en": "Normal", "zh_TW": "一般" }],
+    "specialties": [{ "en": "Trade", "zh_TW": "交易" }],
+    "habitats": [{ "en": "Full Recovery", "zh_TW": "完全恢復" }],
+    "region": { "en": "Withered Wasteland", "zh_TW": "枯萎荒原" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": { "en": "Sweet", "zh_TW": "甜" },
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 102,
+    "name": { "en": "Blissey", "zh_TW": "幸福蛋" },
+    "types": [{ "en": "Normal", "zh_TW": "一般" }],
+    "specialties": [
+      { "en": "Trade", "zh_TW": "交易" },
+      { "en": "Litter", "zh_TW": "散落" }
+    ],
+    "habitats": [{ "en": "Cuteness Overload", "zh_TW": "可愛爆棚" }],
+    "region": { "en": "Withered Wasteland", "zh_TW": "枯萎荒原" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": { "en": "Sweet", "zh_TW": "甜" },
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 103,
+    "name": { "en": "Elekid", "zh_TW": "電擊怪" },
+    "types": [{ "en": "Electric", "zh_TW": "電" }],
+    "specialties": [{ "en": "Generate", "zh_TW": "發電" }],
+    "habitats": [{ "en": "Vending Machine Set", "zh_TW": "自動販賣機組合" }],
+    "region": { "en": "Withered Wasteland", "zh_TW": "枯萎荒原" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 104,
+    "name": { "en": "Electabuzz", "zh_TW": "電擊獸" },
+    "types": [{ "en": "Electric", "zh_TW": "電" }],
+    "specialties": [{ "en": "Generate", "zh_TW": "發電" }],
+    "habitats": [
+      { "en": "Trash Can Central", "zh_TW": "垃圾桶中心" },
+      { "en": "Light-up Stage", "zh_TW": "燈光舞台" }
+    ],
+    "region": { "en": "Withered Wasteland", "zh_TW": "枯萎荒原" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 105,
+    "name": { "en": "Electivire", "zh_TW": "電擊魔獸" },
+    "types": [{ "en": "Electric", "zh_TW": "電" }],
+    "specialties": [
+      { "en": "Generate", "zh_TW": "發電" },
+      { "en": "Crush", "zh_TW": "壓碎" }
+    ],
+    "habitats": [
+      { "en": "Light-up Stage", "zh_TW": "燈光舞台" },
+      { "en": "Vending Machine Set", "zh_TW": "自動販賣機組合" }
+    ],
+    "region": { "en": "Withered Wasteland", "zh_TW": "枯萎荒原" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 106,
+    "name": { "en": "Lapras", "zh_TW": "拉普拉斯" },
+    "types": [
+      { "en": "Water", "zh_TW": "水" },
+      { "en": "Ice", "zh_TW": "冰" }
+    ],
+    "specialties": [{ "en": "Water", "zh_TW": "澆水" }],
+    "habitats": [{ "en": "Tropical Seaside", "zh_TW": "熱帶海濱" }],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 107,
+    "name": { "en": "Munchlax", "zh_TW": "小卡比獸" },
+    "types": [{ "en": "Normal", "zh_TW": "一般" }],
+    "specialties": [{ "en": "Bulldoze", "zh_TW": "推平" }],
+    "habitats": [
+      { "en": "Bed with a Plush", "zh_TW": "毛絨絨的床" },
+      { "en": "Tree-shaded Snoozing Snorlax", "zh_TW": "樹蔭下的打盹卡比獸" }
+    ],
+    "region": { "en": "Withered Wasteland", "zh_TW": "枯萎荒原" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 108,
+    "name": { "en": "Snorlax", "zh_TW": "卡比獸" },
+    "types": [{ "en": "Normal", "zh_TW": "一般" }],
+    "specialties": [{ "en": "Eat", "zh_TW": "進食" }],
+    "habitats": [
+      { "en": "Tree-shaded Snoozing Snorlax", "zh_TW": "樹蔭下的打盹卡比獸" },
+      { "en": "Good Old-fashioned Antiques", "zh_TW": "老式古董" }
+    ],
+    "region": { "en": "Withered Wasteland", "zh_TW": "枯萎荒原" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 109,
+    "name": { "en": "Spinarak", "zh_TW": "線球" },
+    "types": [
+      { "en": "Bug", "zh_TW": "蟲" },
+      { "en": "Poison", "zh_TW": "毒" }
+    ],
+    "specialties": [{ "en": "Litter", "zh_TW": "散落" }],
+    "habitats": [{ "en": "Yellow Tall Grass", "zh_TW": "黃色高草叢" }],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 110,
+    "name": { "en": "Ariados", "zh_TW": "阿利多斯" },
+    "types": [
+      { "en": "Bug", "zh_TW": "蟲" },
+      { "en": "Poison", "zh_TW": "毒" }
+    ],
+    "specialties": [{ "en": "Litter", "zh_TW": "散落" }],
+    "habitats": [{ "en": "Yellow Tall Grass", "zh_TW": "黃色高草叢" }],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 111,
+    "name": { "en": "Mareep", "zh_TW": "咩利羊" },
+    "types": [{ "en": "Electric", "zh_TW": "電" }],
+    "specialties": [
+      { "en": "Generate", "zh_TW": "發電" },
+      { "en": "Litter", "zh_TW": "散落" }
+    ],
+    "habitats": [
+      { "en": "Overgrowth Vending Machine", "zh_TW": "草木圍繞的自動販賣機" },
+      { "en": "Knitting Station", "zh_TW": "編織站" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 112,
+    "name": { "en": "Flaaffy", "zh_TW": "茸茸羊" },
+    "types": [{ "en": "Electric", "zh_TW": "電" }],
+    "specialties": [
+      { "en": "Generate", "zh_TW": "發電" },
+      { "en": "Litter", "zh_TW": "散落" }
+    ],
+    "habitats": [
+      { "en": "Night Festival Venue", "zh_TW": "夜晚祭典會場" },
+      { "en": "Knitting Station", "zh_TW": "編織站" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 113,
+    "name": { "en": "Ampharos", "zh_TW": "電龍" },
+    "types": [{ "en": "Electric", "zh_TW": "電" }],
+    "specialties": [
+      { "en": "Generate", "zh_TW": "發電" },
+      { "en": "Trade", "zh_TW": "交易" }
+    ],
+    "habitats": [{ "en": "Plain Life", "zh_TW": "樸素生活" }],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 114,
+    "name": { "en": "Azurill", "zh_TW": "露力麗" },
+    "types": [
+      { "en": "Normal", "zh_TW": "一般" },
+      { "en": "Fairy", "zh_TW": "妖精" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "澆水" },
+      { "en": "Hype", "zh_TW": "炒熱氣氛" }
+    ],
+    "habitats": [
+      { "en": "Hydrated Yellow Tall Grass", "zh_TW": "潮濕黃色高草叢" },
+      { "en": "Perpetual Mess", "zh_TW": "永遠的凌亂" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 115,
+    "name": { "en": "Marill", "zh_TW": "瑪力露" },
+    "types": [
+      { "en": "Water", "zh_TW": "水" },
+      { "en": "Fairy", "zh_TW": "妖精" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "澆水" },
+      { "en": "Hype", "zh_TW": "炒熱氣氛" }
+    ],
+    "habitats": [
+      { "en": "Hydrated Yellow Tall Grass", "zh_TW": "潮濕黃色高草叢" },
+      { "en": "Dock", "zh_TW": "碼頭" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 116,
+    "name": { "en": "Azumarill", "zh_TW": "瑪力露麗" },
+    "types": [
+      { "en": "Water", "zh_TW": "水" },
+      { "en": "Fairy", "zh_TW": "妖精" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "澆水" },
+      { "en": "Build", "zh_TW": "建造" }
+    ],
+    "habitats": [{ "en": "Dock", "zh_TW": "碼頭" }],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 117,
+    "name": { "en": "Paldean Wooper", "zh_TW": "帕底亞烏波" },
+    "types": [
+      { "en": "Poison", "zh_TW": "毒" },
+      { "en": "Ground", "zh_TW": "地面" }
+    ],
+    "specialties": [{ "en": "Litter", "zh_TW": "散落" }],
+    "habitats": [{ "en": "Marshy Tall Grass", "zh_TW": "沼澤高草叢" }],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 118,
+    "name": { "en": "Clodsire", "zh_TW": "土王" },
+    "types": [
+      { "en": "Poison", "zh_TW": "毒" },
+      { "en": "Ground", "zh_TW": "地面" }
+    ],
+    "specialties": [
+      { "en": "Litter", "zh_TW": "散落" },
+      { "en": "Bulldoze", "zh_TW": "推平" }
+    ],
+    "habitats": [
+      { "en": "Marshy Tall Grass", "zh_TW": "沼澤高草叢" },
+      { "en": "Marsh Fishing Spot", "zh_TW": "沼澤釣魚點" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 119,
+    "name": { "en": "Smeargle", "zh_TW": "圖圖犬" },
+    "types": [{ "en": "Normal", "zh_TW": "一般" }],
+    "specialties": [{ "en": "Paint", "zh_TW": "繪畫" }],
+    "habitats": [{ "en": "Tiny Atelier", "zh_TW": "小巧畫室" }],
+    "region": { "en": "Palette Town", "zh_TW": "調色盤鎮" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 120,
+    "name": { "en": "Torchic", "zh_TW": "火稚雞" },
+    "types": [{ "en": "Fire", "zh_TW": "火" }],
+    "specialties": [{ "en": "Burn", "zh_TW": "燃燒" }],
+    "habitats": [
+      { "en": "Chirp-Chirp Meal", "zh_TW": "嘰嘰餐" },
+      { "en": "Resort Meal Prep", "zh_TW": "度假村備餐" }
+    ],
+    "region": { "en": "Withered Wasteland", "zh_TW": "枯萎荒原" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" }
+    ],
+    "favorites": {
+      "flavor": { "en": "Spicy", "zh_TW": "辣" },
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 121,
+    "name": { "en": "Combusken", "zh_TW": "力壯雞" },
+    "types": [
+      { "en": "Fire", "zh_TW": "火" },
+      { "en": "Fighting", "zh_TW": "格鬥" }
+    ],
+    "specialties": [
+      { "en": "Burn", "zh_TW": "燃燒" },
+      { "en": "Build", "zh_TW": "建造" }
+    ],
+    "habitats": [
+      { "en": "Resort Meal Prep", "zh_TW": "度假村備餐" },
+      { "en": "Furnace Spot", "zh_TW": "熔爐點" }
+    ],
+    "region": { "en": "Rocky Ridges", "zh_TW": "岩石山脊" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" }
+    ],
+    "favorites": {
+      "flavor": { "en": "Spicy", "zh_TW": "辣" },
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 122,
+    "name": { "en": "Blaziken", "zh_TW": "火焰雞" },
+    "types": [
+      { "en": "Fire", "zh_TW": "火" },
+      { "en": "Fighting", "zh_TW": "格鬥" }
+    ],
+    "specialties": [
+      { "en": "Burn", "zh_TW": "燃燒" },
+      { "en": "Build", "zh_TW": "建造" }
+    ],
+    "habitats": [
+      { "en": "Chirp-Chirp Meal", "zh_TW": "嘰嘰餐" },
+      { "en": "Furnace Spot", "zh_TW": "熔爐點" }
+    ],
+    "region": { "en": "Rocky Ridges", "zh_TW": "岩石山脊" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" }
+    ],
+    "favorites": {
+      "flavor": { "en": "Spicy", "zh_TW": "辣" },
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 123,
+    "name": { "en": "Wingull", "zh_TW": "長翅鷗" },
+    "types": [
+      { "en": "Water", "zh_TW": "水" },
+      { "en": "Flying", "zh_TW": "飛行" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "澆水" },
+      { "en": "Fly", "zh_TW": "飛行" }
+    ],
+    "habitats": [
+      { "en": "Elevated Yellow Tall Grass", "zh_TW": "高處的黃色高草叢" },
+      { "en": "Windy Flower Bed", "zh_TW": "有風的花圃" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 124,
+    "name": { "en": "Pelipper", "zh_TW": "大嘴鷗" },
+    "types": [
+      { "en": "Water", "zh_TW": "水" },
+      { "en": "Flying", "zh_TW": "飛行" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "澆水" },
+      { "en": "Fly", "zh_TW": "飛行" }
+    ],
+    "habitats": [
+      { "en": "Elevated Yellow Tall Grass", "zh_TW": "高處的黃色高草叢" },
+      { "en": "Windy Flower Bed", "zh_TW": "有風的花圃" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 125,
+    "name": { "en": "Makuhita", "zh_TW": "幕下力士" },
+    "types": [{ "en": "Fighting", "zh_TW": "格鬥" }],
+    "specialties": [
+      { "en": "Build", "zh_TW": "建造" },
+      { "en": "Bulldoze", "zh_TW": "推平" }
+    ],
+    "habitats": [
+      { "en": "Tree-Shaded Yellow Tall Grass", "zh_TW": "樹蔭下的黃色高草叢" },
+      { "en": "All Packed Up", "zh_TW": "全部打包" }
+    ],
+    "region": { "en": "Rocky Ridges", "zh_TW": "岩石山脊" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 126,
+    "name": { "en": "Hariyama", "zh_TW": "鐵掌力士" },
+    "types": [{ "en": "Fighting", "zh_TW": "格鬥" }],
+    "specialties": [
+      { "en": "Build", "zh_TW": "建造" },
+      { "en": "Bulldoze", "zh_TW": "推平" }
+    ],
+    "habitats": [
+      { "en": "Tree-Shaded Yellow Tall Grass", "zh_TW": "樹蔭下的黃色高草叢" },
+      { "en": "All Packed Up", "zh_TW": "全部打包" }
+    ],
+    "region": { "en": "Rocky Ridges", "zh_TW": "岩石山脊" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 127,
+    "name": { "en": "Absol", "zh_TW": "阿勃梭魯" },
+    "types": [{ "en": "Dark", "zh_TW": "惡" }],
+    "specialties": [{ "en": "Chop", "zh_TW": "砍伐" }],
+    "habitats": [{ "en": "Welcoming Resort", "zh_TW": "迎賓度假村" }],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 128,
+    "name": { "en": "Piplup", "zh_TW": "波加曼" },
+    "types": [{ "en": "Water", "zh_TW": "水" }],
+    "specialties": [{ "en": "Water", "zh_TW": "澆水" }],
+    "habitats": [
+      { "en": "Hydrated Yellow Tall Grass", "zh_TW": "潮濕黃色高草叢" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 129,
+    "name": { "en": "Prinplup", "zh_TW": "波皇子" },
+    "types": [{ "en": "Water", "zh_TW": "水" }],
+    "specialties": [
+      { "en": "Water", "zh_TW": "澆水" },
+      { "en": "Trade", "zh_TW": "交易" }
+    ],
+    "habitats": [
+      { "en": "Hydrated Yellow Tall Grass", "zh_TW": "潮濕黃色高草叢" },
+      { "en": "Waterwheel Spot", "zh_TW": "水車點" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 130,
+    "name": { "en": "Empoleon", "zh_TW": "帝王拿波" },
+    "types": [
+      { "en": "Water", "zh_TW": "水" },
+      { "en": "Steel", "zh_TW": "鋼" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "澆水" },
+      { "en": "Trade", "zh_TW": "交易" }
+    ],
+    "habitats": [
+      { "en": "Tableside Delivery Cart", "zh_TW": "桌邊送餐車" },
+      { "en": "Waterwheel Spot", "zh_TW": "水車點" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 131,
+    "name": { "en": "Audino", "zh_TW": "差不多娃娃" },
+    "types": [{ "en": "Normal", "zh_TW": "一般" }],
+    "specialties": [{ "en": "Trade", "zh_TW": "交易" }],
+    "habitats": [{ "en": "Working the Register", "zh_TW": "收銀台工作" }],
+    "region": { "en": "Palette Town", "zh_TW": "調色盤鎮" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 132,
+    "name": { "en": "Trubbish", "zh_TW": "破破袋" },
+    "types": [{ "en": "Poison", "zh_TW": "毒" }],
+    "specialties": [{ "en": "Recycle", "zh_TW": "回收" }],
+    "habitats": [{ "en": "Trash Collection Site", "zh_TW": "垃圾收集站" }],
+    "region": { "en": "Withered Wasteland", "zh_TW": "枯萎荒原" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 133,
+    "name": { "en": "Garbodor", "zh_TW": "灰塵山" },
+    "types": [{ "en": "Poison", "zh_TW": "毒" }],
+    "specialties": [
+      { "en": "Recycle", "zh_TW": "回收" },
+      { "en": "Litter", "zh_TW": "散落" }
+    ],
+    "habitats": [{ "en": "Trash Collection Site", "zh_TW": "垃圾收集站" }],
+    "region": { "en": "Withered Wasteland", "zh_TW": "枯萎荒原" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 134,
+    "name": { "en": "Zorua", "zh_TW": "索羅亞" },
+    "types": [{ "en": "Dark", "zh_TW": "惡" }],
+    "specialties": [{ "en": "Trade", "zh_TW": "交易" }],
+    "habitats": [{ "en": "Breezy Flower Bed", "zh_TW": "微風花圃" }],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 135,
+    "name": { "en": "Zoroark", "zh_TW": "索羅亞克" },
+    "types": [{ "en": "Dark", "zh_TW": "惡" }],
+    "specialties": [
+      { "en": "Chop", "zh_TW": "砍伐" },
+      { "en": "Trade", "zh_TW": "交易" }
+    ],
+    "habitats": [
+      { "en": "Breezy Flower Bed", "zh_TW": "微風花圃" },
+      { "en": "Surprise in Store", "zh_TW": "店裡的驚喜" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 136,
+    "name": { "en": "Minccino", "zh_TW": "泡沫栗鼠" },
+    "types": [{ "en": "Normal", "zh_TW": "一般" }],
+    "specialties": [{ "en": "Gather", "zh_TW": "收集" }],
+    "habitats": [
+      { "en": "Changing Area", "zh_TW": "更衣區" },
+      { "en": "Private Makeup Stand", "zh_TW": "私人化妝台" }
+    ],
+    "region": { "en": "Palette Town", "zh_TW": "調色盤鎮" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 137,
+    "name": { "en": "Cinccino", "zh_TW": "奇諾栗鼠" },
+    "types": [{ "en": "Normal", "zh_TW": "一般" }],
+    "specialties": [
+      { "en": "Gather", "zh_TW": "收集" },
+      { "en": "Recycle", "zh_TW": "回收" }
+    ],
+    "habitats": [{ "en": "Private Makeup Stand", "zh_TW": "私人化妝台" }],
+    "region": { "en": "Palette Town", "zh_TW": "調色盤鎮" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 138,
+    "name": { "en": "Grubbin", "zh_TW": "強顎雞母蟲" },
+    "types": [{ "en": "Bug", "zh_TW": "蟲" }],
+    "specialties": [{ "en": "Chop", "zh_TW": "砍伐" }],
+    "habitats": [
+      { "en": "Yellow Tall Grass", "zh_TW": "黃色高草叢" },
+      { "en": "Vending Machine Break Area", "zh_TW": "自動販賣機休息區" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 139,
+    "name": { "en": "Charjabug", "zh_TW": "蟲電寶" },
+    "types": [
+      { "en": "Bug", "zh_TW": "蟲" },
+      { "en": "Electric", "zh_TW": "電" }
+    ],
+    "specialties": [
+      { "en": "Chop", "zh_TW": "砍伐" },
+      { "en": "Generate", "zh_TW": "發電" }
+    ],
+    "habitats": [
+      { "en": "Vending Machine Break Area", "zh_TW": "自動販賣機休息區" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 140,
+    "name": { "en": "Vikavolt", "zh_TW": "鍬農炮蟲" },
+    "types": [
+      { "en": "Bug", "zh_TW": "蟲" },
+      { "en": "Electric", "zh_TW": "電" }
+    ],
+    "specialties": [
+      { "en": "Chop", "zh_TW": "砍伐" },
+      { "en": "Generate", "zh_TW": "發電" }
+    ],
+    "habitats": [{ "en": "Tree-Shaded Flower Bed", "zh_TW": "樹蔭下的花圃" }],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 141,
+    "name": { "en": "Mimikyu", "zh_TW": "謎擬Ｑ" },
+    "types": [
+      { "en": "Ghost", "zh_TW": "幽靈" },
+      { "en": "Fairy", "zh_TW": "妖精" }
+    ],
+    "specialties": [{ "en": "Trade", "zh_TW": "交易" }],
+    "habitats": [{ "en": "Pikachu Space", "zh_TW": "皮卡丘空間" }],
+    "region": { "en": "Palette Town", "zh_TW": "調色盤鎮" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 142,
+    "name": { "en": "Pawmi", "zh_TW": "布撥" },
+    "types": [{ "en": "Electric", "zh_TW": "電" }],
+    "specialties": [{ "en": "Generate", "zh_TW": "發電" }],
+    "habitats": [
+      { "en": "Breezy Flower Bed", "zh_TW": "微風花圃" },
+      { "en": "Tantalizing Restaurant", "zh_TW": "誘人餐廳" },
+      { "en": "Café Space", "zh_TW": "咖啡廳空間" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 143,
+    "name": { "en": "Pawmo", "zh_TW": "布土撥" },
+    "types": [
+      { "en": "Electric", "zh_TW": "電" },
+      { "en": "Fighting", "zh_TW": "格鬥" }
+    ],
+    "specialties": [
+      { "en": "Crush", "zh_TW": "壓碎" },
+      { "en": "Generate", "zh_TW": "發電" }
+    ],
+    "habitats": [
+      { "en": "Tantalizing Restaurant", "zh_TW": "誘人餐廳" },
+      { "en": "Café Space", "zh_TW": "咖啡廳空間" }
+    ],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 144,
+    "name": { "en": "Pawmot", "zh_TW": "巴布土撥" },
+    "types": [
+      { "en": "Electric", "zh_TW": "電" },
+      { "en": "Fighting", "zh_TW": "格鬥" }
+    ],
+    "specialties": [
+      { "en": "Crush", "zh_TW": "壓碎" },
+      { "en": "Generate", "zh_TW": "發電" }
+    ],
+    "habitats": [{ "en": "Café Space", "zh_TW": "咖啡廳空間" }],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 145,
+    "name": { "en": "Tatsugiri", "zh_TW": "米立龍" },
+    "types": [
+      { "en": "Dragon", "zh_TW": "龍" },
+      { "en": "Water", "zh_TW": "水" }
+    ],
+    "specialties": [{ "en": "Trade", "zh_TW": "交易" }],
+    "habitats": [{ "en": "Beach Set", "zh_TW": "海灘套裝" }],
+    "region": { "en": "Bleak Beach", "zh_TW": "荒涼海灘" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 146,
+    "name": { "en": "Ekans", "zh_TW": "阿柏蛇" },
+    "types": [{ "en": "Poison", "zh_TW": "毒" }],
+    "specialties": [{ "en": "Search", "zh_TW": "搜索" }],
+    "habitats": [
+      { "en": "Hydrated Graceful Flower Bed", "zh_TW": "潮濕優雅花圃" }
+    ],
+    "region": { "en": "Rocky Ridges", "zh_TW": "岩石山脊" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 147,
+    "name": { "en": "Arbok", "zh_TW": "阿柏怪" },
+    "types": [{ "en": "Poison", "zh_TW": "毒" }],
+    "specialties": [{ "en": "Search", "zh_TW": "搜索" }],
+    "habitats": [
+      { "en": "Hydrated Graceful Flower Bed", "zh_TW": "潮濕優雅花圃" }
+    ],
+    "region": { "en": "Rocky Ridges", "zh_TW": "岩石山脊" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 148,
+    "name": { "en": "Cleffa", "zh_TW": "寶寶丁" },
+    "types": [{ "en": "Fairy", "zh_TW": "妖精" }],
+    "specialties": [{ "en": "Hype", "zh_TW": "炒熱氣氛" }],
+    "habitats": [{ "en": "Graceful Flower Bed", "zh_TW": "優雅花圃" }],
+    "region": { "en": "Rocky Ridges", "zh_TW": "岩石山脊" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 149,
+    "name": { "en": "Clefairy", "zh_TW": "皮皮" },
+    "types": [{ "en": "Fairy", "zh_TW": "妖精" }],
+    "specialties": [{ "en": "Hype", "zh_TW": "炒熱氣氛" }],
+    "habitats": [
+      { "en": "Graceful Flower Bed", "zh_TW": "優雅花圃" },
+      { "en": "Bronze Landmark", "zh_TW": "青銅地標" }
+    ],
+    "region": { "en": "Rocky Ridges", "zh_TW": "岩石山脊" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 150,
+    "name": { "en": "Clefable", "zh_TW": "皮可西" },
+    "types": [{ "en": "Fairy", "zh_TW": "妖精" }],
+    "specialties": [
+      { "en": "Trade", "zh_TW": "交易" },
+      { "en": "Hype", "zh_TW": "炒熱氣氛" }
+    ],
+    "habitats": [
+      { "en": "Graceful Flower Bed", "zh_TW": "優雅花圃" },
+      { "en": "Bronze Landmark", "zh_TW": "青銅地標" }
+    ],
+    "region": { "en": "Rocky Ridges", "zh_TW": "岩石山脊" },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  }
+]

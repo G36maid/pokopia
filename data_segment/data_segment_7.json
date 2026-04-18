@@ -1,0 +1,131 @@
+[
+  {
+    "id": 301,
+    "name": {
+      "en": "Hoppip",
+      "zh_TW": "毽子草"
+    },
+    "types": [
+      { "en": "Grass", "zh_TW": "草" },
+      { "en": "Flying", "zh_TW": "飛行" }
+    ],
+    "specialties": [
+      { "en": "Grow", "zh_TW": "生長" }
+    ],
+    "habitats": [
+      { "en": "Yellow Carpet", "zh_TW": "黃色花毯" }
+    ],
+    "region": {
+      "en": "Event",
+      "zh_TW": "活動限定"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "雨天" }
+    ],
+    "favorites": {
+      "flavor": { "en": "Sweet", "zh_TW": "甜" },
+      "environment": { "en": "Nice breezes", "zh_TW": "涼爽微風" },
+      "thing": { "en": "Soft stuff", "zh_TW": "柔軟的東西" }
+    },
+    "event_info": {
+      "event_name": { "en": "More Spores for Hoppip", "zh_TW": "為毽子草尋找更多孢子" },
+      "event_dates": "March 10 - March 25, 2026",
+      "notes": "First limited-time event in Pokémon Pokopia. Hoppip appears at the Pokémon Center entrance and asks for help collecting Cotton Spores from Dream Islands. Common encounter in the Yellow Carpet habitat. Requires a rebuilt Pokémon Center to access the event. Not available on Cloud Islands."
+    }
+  },
+  {
+    "id": 302,
+    "name": {
+      "en": "Skiploom",
+      "zh_TW": "毽子花"
+    },
+    "types": [
+      { "en": "Grass", "zh_TW": "草" },
+      { "en": "Flying", "zh_TW": "飛行" }
+    ],
+    "specialties": [
+      { "en": "Grow", "zh_TW": "生長" }
+    ],
+    "habitats": [
+      { "en": "Field-trip Friends", "zh_TW": "遠足好友" },
+      { "en": "Yellow Carpet", "zh_TW": "黃色花毯" }
+    ],
+    "region": {
+      "en": "Event",
+      "zh_TW": "活動限定"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "雨天" }
+    ],
+    "favorites": {
+      "flavor": { "en": "Dry", "zh_TW": "澀" },
+      "environment": { "en": "Nice breezes", "zh_TW": "涼爽微風" },
+      "thing": { "en": "Spinning stuff", "zh_TW": "旋轉的東西" }
+    },
+    "event_info": {
+      "event_name": { "en": "More Spores for Hoppip", "zh_TW": "為毽子草尋找更多孢子" },
+      "event_dates": "March 10 - March 25, 2026",
+      "notes": "Rare encounter in the Yellow Carpet habitat. Common encounter in the Field-trip Friends habitat (requires Flower Backpack, Lunch Box, and Hoppip Water Bottle). Requires a rebuilt Pokémon Center to access the event. Not available on Cloud Islands."
+    }
+  },
+  {
+    "id": 303,
+    "name": {
+      "en": "Jumpluff",
+      "zh_TW": "毽子棉"
+    },
+    "types": [
+      { "en": "Grass", "zh_TW": "草" },
+      { "en": "Flying", "zh_TW": "飛行" }
+    ],
+    "specialties": [
+      { "en": "Grow", "zh_TW": "生長" },
+      { "en": "Litter", "zh_TW": "散播" }
+    ],
+    "habitats": [
+      { "en": "Dandelion Lunchtime", "zh_TW": "蒲公英午餐時光" },
+      { "en": "Yellow Carpet", "zh_TW": "黃色花毯" }
+    ],
+    "region": {
+      "en": "Event",
+      "zh_TW": "活動限定"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "雨天" }
+    ],
+    "favorites": {
+      "flavor": { "en": "Sour", "zh_TW": "酸" },
+      "environment": { "en": "Nice breezes", "zh_TW": "涼爽微風" },
+      "thing": { "en": "Round stuff", "zh_TW": "圓形的東西" }
+    },
+    "event_info": {
+      "event_name": { "en": "More Spores for Hoppip", "zh_TW": "為毽子草尋找更多孢子" },
+      "event_dates": "March 10 - March 25, 2026",
+      "notes": "Very rare encounter. The most valuable event Pokémon due to having two specialties (Grow and Litter). Best attracted using the Dandelion Lunchtime habitat (requires Dandy Flower, Flower Cushion, Flowery Table Setting, and Lunch Box). Requires a rebuilt Pokémon Center to access the event. Not available on Cloud Islands."
+    }
+  }
+]

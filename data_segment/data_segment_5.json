@@ -1,0 +1,1832 @@
+[
+  {
+    "id": 201,
+    "name": {
+      "en": "Armarouge",
+      "zh_TW": "紅蓮鎧騎"
+    },
+    "types": [
+      { "en": "Fire", "zh_TW": "火" },
+      { "en": "Psychic", "zh_TW": "超能力" }
+    ],
+    "specialties": [
+      { "en": "Burn", "zh_TW": "燃燒" },
+      { "en": "Trade", "zh_TW": "交易" }
+    ],
+    "habitats": [
+      { "en": "Auspicious Knight's Shrine", "zh_TW": "忠誠騎士的祭壇" }
+    ],
+    "region": {
+      "en": "Rocky Ridges",
+      "zh_TW": "岩石山脊"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": { "en": "Spicy", "zh_TW": "辣" },
+      "environment": { "en": "Warm", "zh_TW": "溫暖" },
+      "thing": { "en": "Stone stuff", "zh_TW": "石製品" }
+    }
+  },
+  {
+    "id": 202,
+    "name": {
+      "en": "Ceruledge",
+      "zh_TW": "蒼炎刃鬼"
+    },
+    "types": [
+      { "en": "Fire", "zh_TW": "火" },
+      { "en": "Ghost", "zh_TW": "幽靈" }
+    ],
+    "specialties": [
+      { "en": "Burn", "zh_TW": "燃燒" },
+      { "en": "Trade", "zh_TW": "交易" }
+    ],
+    "habitats": [
+      { "en": "Malicious Knight's Shrine", "zh_TW": "怨念騎士的祭壇" }
+    ],
+    "region": {
+      "en": "Rocky Ridges",
+      "zh_TW": "岩石山脊"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": { "en": "Bitter", "zh_TW": "苦" },
+      "environment": { "en": "Warm", "zh_TW": "溫暖" },
+      "thing": { "en": "Spooky stuff", "zh_TW": "詭異的東西" }
+    }
+  },
+  {
+    "id": 203,
+    "name": {
+      "en": "Glimmet",
+      "zh_TW": "晶光芽"
+    },
+    "types": [
+      { "en": "Rock", "zh_TW": "岩石" },
+      { "en": "Poison", "zh_TW": "毒" }
+    ],
+    "specialties": [
+      { "en": "Litter", "zh_TW": "散佈" }
+    ],
+    "habitats": [
+      { "en": "Eerie White Rocks", "zh_TW": "詭異的白色岩石" }
+    ],
+    "region": {
+      "en": "Rocky Ridges",
+      "zh_TW": "岩石山脊"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 204,
+    "name": {
+      "en": "Glimmora",
+      "zh_TW": "晶光花"
+    },
+    "types": [
+      { "en": "Rock", "zh_TW": "岩石" },
+      { "en": "Poison", "zh_TW": "毒" }
+    ],
+    "specialties": [
+      { "en": "Litter", "zh_TW": "散佈" }
+    ],
+    "habitats": [
+      { "en": "Eerie White Rocks", "zh_TW": "詭異的白色岩石" }
+    ],
+    "region": {
+      "en": "Rocky Ridges",
+      "zh_TW": "岩石山脊"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 205,
+    "name": {
+      "en": "Gimmighoul",
+      "zh_TW": "索財靈"
+    },
+    "types": [
+      { "en": "Ghost", "zh_TW": "幽靈" }
+    ],
+    "specialties": [
+      { "en": "Collect", "zh_TW": "收集" }
+    ],
+    "habitats": [
+      { "en": "Mini Museum", "zh_TW": "小小博物館" }
+    ],
+    "region": {
+      "en": "Rocky Ridges",
+      "zh_TW": "岩石山脊"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 206,
+    "name": {
+      "en": "Gholdengo",
+      "zh_TW": "賽富豪"
+    },
+    "types": [
+      { "en": "Steel", "zh_TW": "鋼" },
+      { "en": "Ghost", "zh_TW": "幽靈" }
+    ],
+    "specialties": [
+      { "en": "Collect", "zh_TW": "收集" },
+      { "en": "Trade", "zh_TW": "交易" }
+    ],
+    "habitats": [
+      { "en": "Ultimate Luxury", "zh_TW": "極致奢華" }
+    ],
+    "region": {
+      "en": "Rocky Ridges",
+      "zh_TW": "岩石山脊"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 207,
+    "name": {
+      "en": "Vulpix",
+      "zh_TW": "六尾"
+    },
+    "types": [
+      { "en": "Fire", "zh_TW": "火" }
+    ],
+    "specialties": [
+      { "en": "Burn", "zh_TW": "燃燒" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 208,
+    "name": {
+      "en": "Ninetales",
+      "zh_TW": "九尾"
+    },
+    "types": [
+      { "en": "Fire", "zh_TW": "火" }
+    ],
+    "specialties": [
+      { "en": "Burn", "zh_TW": "燃燒" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" },
+      { "en": "Nine Flames", "zh_TW": "九團火焰" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 209,
+    "name": {
+      "en": "Poliwag",
+      "zh_TW": "蚊香蝌蚪"
+    },
+    "types": [
+      { "en": "Water", "zh_TW": "水" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "潤澤" }
+    ],
+    "habitats": [
+      { "en": "Sparkling Clean Wash Station", "zh_TW": "亮晶晶的洗手間" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 210,
+    "name": {
+      "en": "Poliwhirl",
+      "zh_TW": "蚊香君"
+    },
+    "types": [
+      { "en": "Water", "zh_TW": "水" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "潤澤" }
+    ],
+    "habitats": [
+      { "en": "Hydrated Fluffy Flower Bed", "zh_TW": "濕潤的軟綿綿花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 211,
+    "name": {
+      "en": "Poliwrath",
+      "zh_TW": "蚊香泳士"
+    },
+    "types": [
+      { "en": "Water", "zh_TW": "水" },
+      { "en": "Fighting", "zh_TW": "格鬥" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "潤澤" },
+      { "en": "Build", "zh_TW": "建築" }
+    ],
+    "habitats": [
+      { "en": "Hydrated Fluffy Flower Bed", "zh_TW": "濕潤的軟綿綿花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 212,
+    "name": {
+      "en": "Politoed",
+      "zh_TW": "蚊香蛙皇"
+    },
+    "types": [
+      { "en": "Water", "zh_TW": "水" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "潤澤" },
+      { "en": "Hype", "zh_TW": "熱場" }
+    ],
+    "habitats": [
+      { "en": "Hydrated Fluffy Flower Bed", "zh_TW": "濕潤的軟綿綿花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 213,
+    "name": {
+      "en": "Abra",
+      "zh_TW": "凱西"
+    },
+    "types": [
+      { "en": "Psychic", "zh_TW": "超能力" }
+    ],
+    "specialties": [
+      { "en": "Teleport", "zh_TW": "瞬間移動" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 214,
+    "name": {
+      "en": "Kadabra",
+      "zh_TW": "勇基拉"
+    },
+    "types": [
+      { "en": "Psychic", "zh_TW": "超能力" }
+    ],
+    "specialties": [
+      { "en": "Teleport", "zh_TW": "瞬間移動" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 215,
+    "name": {
+      "en": "Alakazam",
+      "zh_TW": "胡地"
+    },
+    "types": [
+      { "en": "Psychic", "zh_TW": "超能力" }
+    ],
+    "specialties": [
+      { "en": "Trade", "zh_TW": "交易" },
+      { "en": "Teleport", "zh_TW": "瞬間移動" }
+    ],
+    "habitats": [
+      { "en": "Surging Psychic Power", "zh_TW": "湧出的超能力" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 216,
+    "name": {
+      "en": "Mime Jr.",
+      "zh_TW": "魔尼尼"
+    },
+    "types": [
+      { "en": "Psychic", "zh_TW": "超能力" },
+      { "en": "Fairy", "zh_TW": "妖精" }
+    ],
+    "specialties": [
+      { "en": "Gather", "zh_TW": "分類" }
+    ],
+    "habitats": [
+      { "en": "Spotless Washing Station", "zh_TW": "亮晶晶的洗手間" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 217,
+    "name": {
+      "en": "Mr. Mime",
+      "zh_TW": "魔牆人偶"
+    },
+    "types": [
+      { "en": "Psychic", "zh_TW": "超能力" },
+      { "en": "Fairy", "zh_TW": "妖精" }
+    ],
+    "specialties": [
+      { "en": "Gather", "zh_TW": "分類" },
+      { "en": "Build", "zh_TW": "建築" }
+    ],
+    "habitats": [
+      { "en": "Spotless Washing Station", "zh_TW": "亮晶晶的洗手間" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 218,
+    "name": {
+      "en": "Porygon",
+      "zh_TW": "多邊獸"
+    },
+    "types": [
+      { "en": "Normal", "zh_TW": "一般" }
+    ],
+    "specialties": [
+      { "en": "Recycle", "zh_TW": "回收" }
+    ],
+    "habitats": [
+      { "en": "Abandoned Machinery", "zh_TW": "廢棄機械" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 219,
+    "name": {
+      "en": "Porygon2",
+      "zh_TW": "多邊獸Ⅱ"
+    },
+    "types": [
+      { "en": "Normal", "zh_TW": "一般" }
+    ],
+    "specialties": [
+      { "en": "Recycle", "zh_TW": "回收" }
+    ],
+    "habitats": [
+      { "en": "Abandoned Machinery", "zh_TW": "廢棄機械" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 220,
+    "name": {
+      "en": "Porygon-Z",
+      "zh_TW": "多邊獸Ｚ"
+    },
+    "types": [
+      { "en": "Normal", "zh_TW": "一般" }
+    ],
+    "specialties": [
+      { "en": "Rarify", "zh_TW": "稀有化" }
+    ],
+    "habitats": [
+      { "en": "Abandoned Machinery", "zh_TW": "廢棄機械" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 221,
+    "name": {
+      "en": "Dratini",
+      "zh_TW": "迷你龍"
+    },
+    "types": [
+      { "en": "Dragon", "zh_TW": "龍" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "潤澤" }
+    ],
+    "habitats": [
+      { "en": "Hydrated Fluffy Flower Bed", "zh_TW": "濕潤的軟綿綿花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 222,
+    "name": {
+      "en": "Dragonair",
+      "zh_TW": "哈克龍"
+    },
+    "types": [
+      { "en": "Dragon", "zh_TW": "龍" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "潤澤" }
+    ],
+    "habitats": [
+      { "en": "Hydrated Fluffy Flower Bed", "zh_TW": "濕潤的軟綿綿花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 223,
+    "name": {
+      "en": "Dragonite",
+      "zh_TW": "快龍"
+    },
+    "types": [
+      { "en": "Dragon", "zh_TW": "龍" },
+      { "en": "Flying", "zh_TW": "飛行" }
+    ],
+    "specialties": [
+      { "en": "Water", "zh_TW": "潤澤" },
+      { "en": "Fly", "zh_TW": "飛行" }
+    ],
+    "habitats": [
+      { "en": "Waterside Dinghy", "zh_TW": "水邊小艇" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 224,
+    "name": {
+      "en": "Cyndaquil",
+      "zh_TW": "火球鼠"
+    },
+    "types": [
+      { "en": "Fire", "zh_TW": "火" }
+    ],
+    "specialties": [
+      { "en": "Burn", "zh_TW": "燃燒" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 225,
+    "name": {
+      "en": "Quilava",
+      "zh_TW": "火岩鼠"
+    },
+    "types": [
+      { "en": "Fire", "zh_TW": "火" }
+    ],
+    "specialties": [
+      { "en": "Burn", "zh_TW": "燃燒" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 226,
+    "name": {
+      "en": "Typhlosion",
+      "zh_TW": "火暴獸"
+    },
+    "types": [
+      { "en": "Fire", "zh_TW": "火" }
+    ],
+    "specialties": [
+      { "en": "Trade", "zh_TW": "交易" },
+      { "en": "Burn", "zh_TW": "燃燒" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 227,
+    "name": {
+      "en": "Misdreavus",
+      "zh_TW": "夢妖"
+    },
+    "types": [
+      { "en": "Ghost", "zh_TW": "幽靈" }
+    ],
+    "specialties": [
+      { "en": "Trade", "zh_TW": "交易" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 228,
+    "name": {
+      "en": "Mismagius",
+      "zh_TW": "夢妖魔"
+    },
+    "types": [
+      { "en": "Ghost", "zh_TW": "幽靈" }
+    ],
+    "specialties": [
+      { "en": "Gather", "zh_TW": "分類" },
+      { "en": "Trade", "zh_TW": "交易" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 229,
+    "name": {
+      "en": "Girafarig",
+      "zh_TW": "麒麟奇"
+    },
+    "types": [
+      { "en": "Normal", "zh_TW": "一般" },
+      { "en": "Psychic", "zh_TW": "超能力" }
+    ],
+    "specialties": [
+      { "en": "Gather", "zh_TW": "分類" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 230,
+    "name": {
+      "en": "Farigiraf",
+      "zh_TW": "奇麒麟"
+    },
+    "types": [
+      { "en": "Normal", "zh_TW": "一般" },
+      { "en": "Psychic", "zh_TW": "超能力" }
+    ],
+    "specialties": [
+      { "en": "Gather", "zh_TW": "分類" },
+      { "en": "Search", "zh_TW": "尋物" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 231,
+    "name": {
+      "en": "Ralts",
+      "zh_TW": "拉魯拉絲"
+    },
+    "types": [
+      { "en": "Psychic", "zh_TW": "超能力" },
+      { "en": "Fairy", "zh_TW": "妖精" }
+    ],
+    "specialties": [
+      { "en": "Teleport", "zh_TW": "瞬間移動" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 232,
+    "name": {
+      "en": "Kirlia",
+      "zh_TW": "奇魯莉安"
+    },
+    "types": [
+      { "en": "Psychic", "zh_TW": "超能力" },
+      { "en": "Fairy", "zh_TW": "妖精" }
+    ],
+    "specialties": [
+      { "en": "Trade", "zh_TW": "交易" },
+      { "en": "Teleport", "zh_TW": "瞬間移動" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 233,
+    "name": {
+      "en": "Gardevoir",
+      "zh_TW": "沙奈朵"
+    },
+    "types": [
+      { "en": "Psychic", "zh_TW": "超能力" },
+      { "en": "Fairy", "zh_TW": "妖精" }
+    ],
+    "specialties": [
+      { "en": "Trade", "zh_TW": "交易" },
+      { "en": "Teleport", "zh_TW": "瞬間移動" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 234,
+    "name": {
+      "en": "Gallade",
+      "zh_TW": "艾路雷朵"
+    },
+    "types": [
+      { "en": "Psychic", "zh_TW": "超能力" },
+      { "en": "Fighting", "zh_TW": "格鬥" }
+    ],
+    "specialties": [
+      { "en": "Build", "zh_TW": "建築" },
+      { "en": "Teleport", "zh_TW": "瞬間移動" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 235,
+    "name": {
+      "en": "Plusle",
+      "zh_TW": "正電拍拍"
+    },
+    "types": [
+      { "en": "Electric", "zh_TW": "電" }
+    ],
+    "specialties": [
+      { "en": "Generate", "zh_TW": "發電" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 236,
+    "name": {
+      "en": "Minun",
+      "zh_TW": "負電拍拍"
+    },
+    "types": [
+      { "en": "Electric", "zh_TW": "電" }
+    ],
+    "specialties": [
+      { "en": "Generate", "zh_TW": "發電" }
+    ],
+    "habitats": [
+      { "en": "Fluffy Flower Bed", "zh_TW": "軟綿綿的花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 237,
+    "name": {
+      "en": "Trapinch",
+      "zh_TW": "大顎蟻"
+    },
+    "types": [
+      { "en": "Ground", "zh_TW": "地面" }
+    ],
+    "specialties": [
+      { "en": "Litter", "zh_TW": "散佈" },
+      { "en": "Bulldoze", "zh_TW": "整地" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 238,
+    "name": {
+      "en": "Vibrava",
+      "zh_TW": "超音波幼蟲"
+    },
+    "types": [
+      { "en": "Ground", "zh_TW": "地面" },
+      { "en": "Dragon", "zh_TW": "龍" }
+    ],
+    "specialties": [
+      { "en": "Fly", "zh_TW": "飛行" },
+      { "en": "Bulldoze", "zh_TW": "整地" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 239,
+    "name": {
+      "en": "Flygon",
+      "zh_TW": "沙漠蜻蜓"
+    },
+    "types": [
+      { "en": "Ground", "zh_TW": "地面" },
+      { "en": "Dragon", "zh_TW": "龍" }
+    ],
+    "specialties": [
+      { "en": "Fly", "zh_TW": "飛行" },
+      { "en": "Bulldoze", "zh_TW": "整地" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 240,
+    "name": {
+      "en": "Swablu",
+      "zh_TW": "青綿鳥"
+    },
+    "types": [
+      { "en": "Normal", "zh_TW": "一般" },
+      { "en": "Flying", "zh_TW": "飛行" }
+    ],
+    "specialties": [
+      { "en": "Litter", "zh_TW": "散佈" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 241,
+    "name": {
+      "en": "Altaria",
+      "zh_TW": "七夕青鳥"
+    },
+    "types": [
+      { "en": "Dragon", "zh_TW": "龍" },
+      { "en": "Flying", "zh_TW": "飛行" }
+    ],
+    "specialties": [
+      { "en": "Fly", "zh_TW": "飛行" },
+      { "en": "Litter", "zh_TW": "散佈" }
+    ],
+    "habitats": [
+      { "en": "Birdsong Garden", "zh_TW": "鳥鳴花園" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 242,
+    "name": {
+      "en": "Duskull",
+      "zh_TW": "夜骷髏"
+    },
+    "types": [
+      { "en": "Ghost", "zh_TW": "幽靈" }
+    ],
+    "specialties": [
+      { "en": "Gather", "zh_TW": "分類" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 243,
+    "name": {
+      "en": "Dusclops",
+      "zh_TW": "夜巨人"
+    },
+    "types": [
+      { "en": "Ghost", "zh_TW": "幽靈" }
+    ],
+    "specialties": [
+      { "en": "Gather", "zh_TW": "分類" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 244,
+    "name": {
+      "en": "Dusknoir",
+      "zh_TW": "夜黑魔人"
+    },
+    "types": [
+      { "en": "Ghost", "zh_TW": "幽靈" }
+    ],
+    "specialties": [
+      { "en": "Gather", "zh_TW": "分類" },
+      { "en": "Trade", "zh_TW": "交易" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 245,
+    "name": {
+      "en": "Beldum",
+      "zh_TW": "鐵啞鈴"
+    },
+    "types": [
+      { "en": "Steel", "zh_TW": "鋼" },
+      { "en": "Psychic", "zh_TW": "超能力" }
+    ],
+    "specialties": [
+      { "en": "Recycle", "zh_TW": "回收" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 246,
+    "name": {
+      "en": "Metang",
+      "zh_TW": "金屬怪"
+    },
+    "types": [
+      { "en": "Steel", "zh_TW": "鋼" },
+      { "en": "Psychic", "zh_TW": "超能力" }
+    ],
+    "specialties": [
+      { "en": "Recycle", "zh_TW": "回收" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 247,
+    "name": {
+      "en": "Metagross",
+      "zh_TW": "巨金怪"
+    },
+    "types": [
+      { "en": "Steel", "zh_TW": "鋼" },
+      { "en": "Psychic", "zh_TW": "超能力" }
+    ],
+    "specialties": [
+      { "en": "Crush", "zh_TW": "粉碎" },
+      { "en": "Recycle", "zh_TW": "回收" }
+    ],
+    "habitats": [
+      { "en": "Pink Tall Grass", "zh_TW": "粉色草叢" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 248,
+    "name": {
+      "en": "Snivy",
+      "zh_TW": "藤藤蛇"
+    },
+    "types": [
+      { "en": "Grass", "zh_TW": "草" }
+    ],
+    "specialties": [
+      { "en": "Grow", "zh_TW": "栽培" },
+      { "en": "Litter", "zh_TW": "散佈" }
+    ],
+    "habitats": [
+      { "en": "Playland", "zh_TW": "遊樂場" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 249,
+    "name": {
+      "en": "Servine",
+      "zh_TW": "青藤蛇"
+    },
+    "types": [
+      { "en": "Grass", "zh_TW": "草" }
+    ],
+    "specialties": [
+      { "en": "Grow", "zh_TW": "栽培" },
+      { "en": "Litter", "zh_TW": "散佈" }
+    ],
+    "habitats": [
+      { "en": "Tree-Shaded Fluffy Flower Bed", "zh_TW": "樹蔭的軟綿綿花田" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  },
+  {
+    "id": 250,
+    "name": {
+      "en": "Serperior",
+      "zh_TW": "君主蛇"
+    },
+    "types": [
+      { "en": "Grass", "zh_TW": "草" }
+    ],
+    "specialties": [
+      { "en": "Grow", "zh_TW": "栽培" },
+      { "en": "Litter", "zh_TW": "散佈" }
+    ],
+    "habitats": [
+      { "en": "Tree-Shaded Fluffy Flower Bed", "zh_TW": "樹蔭的軟綿綿花田" },
+      { "en": "Welcome Free Reading", "zh_TW": "歡迎自由取閱" }
+    ],
+    "region": {
+      "en": "Sparkling Skylands",
+      "zh_TW": "閃耀天空"
+    },
+    "time_of_day": [
+      { "en": "Morning", "zh_TW": "早晨" },
+      { "en": "Day", "zh_TW": "白天" },
+      { "en": "Evening", "zh_TW": "傍晚" },
+      { "en": "Night", "zh_TW": "夜晚" }
+    ],
+    "weather": [
+      { "en": "Sunny", "zh_TW": "晴天" },
+      { "en": "Cloudy", "zh_TW": "多雲" },
+      { "en": "Rainy", "zh_TW": "下雨" }
+    ],
+    "favorites": {
+      "flavor": null,
+      "environment": null,
+      "thing": null
+    }
+  }
+]
