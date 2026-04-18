@@ -392,12 +392,12 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    subgraph dye["🎨顏料"]        
+    subgraph dye["顏料"]        
         direction LR
         BERRY["樹果"] -->|"碾壓"| DYE["顏料"]
     end
 
-    subgraph cement["🏗️水泥"]
+    subgraph cement["水泥"]
         direction LR
         LIME["石灰"] -->|"碾壓"| CEMENT["水泥"]
     end
