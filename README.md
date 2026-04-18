@@ -37,7 +37,7 @@ flowchart LR
     IRON -->|"分類"| BOX
     TRASH -->|"分類"| BOX
     BOX -->|"回收利用🔑灰塵山"| IRON_R["鐵"]
-    IRON_R -->|"分類"| BOX
+    IRON_R --> BOX
     EXTRA["📥 額外礦物輸入"] -.-> BOX
 
     BOX -->|"點火🔑小炭仔一家"| BRICK["🧱 磚塊"]
