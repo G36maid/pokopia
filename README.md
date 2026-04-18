@@ -14,7 +14,7 @@ flowchart LR
     B1 -->|"伐木（雙斧戰龍）"| WOOD["木材"]
 ```
 
-> ⚠️ 木材有額外礦物輸入
+> ⚠️ 木材有額外木材輸入
 
 ### 🌾 農場
 
@@ -31,18 +31,21 @@ flowchart LR
 ```mermaid
 flowchart LR
     subgraph clay["🧱 黏土→磚塊"]
+        direction LR
         WP["烏波 / 土王"] -->|"亂灑"| CLAY["軟塌塌黏土"]
         CLAY -->|"分類"| CB["大家的盒子"]
         CB -->|"點火"| BRICK["磚塊"]
     end
 
     subgraph iron["⚙️ 鐵→鐵塊"]
+        direction LR
         GL["晶光芽 / 晶光花"] -->|"亂灑"| IRON["鐵"]
         IRON -->|"分類"| IB["大家的盒子"]
         IB -->|"點火"| IBLOCK["鐵塊"]
     end
 
     subgraph trash["♻️ 垃圾回收→鐵塊"]
+        direction LR
         GB["臭泥 / 臭臭泥"] -->|"亂灑"| TRASH["不可燃垃圾"]
         TRASH -->|"分類"| TB1["大家的盒子"]
         TB1 -->|"回收利用（灰塵山）"| RECYCLED["回收材料"]
@@ -60,11 +63,13 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    subgraph dye["🎨 樹果→顏料"]
+    subgraph dye["🎨 樹果→顏料"]        
+        direction LR
         BERRY["樹果"] -->|"碾壓"| DYE["顏料"]
     end
 
     subgraph cement["🏗️ 石灰→水泥"]
+        direction LR
         LIME["石灰"] -->|"碾壓"| CEMENT["水泥"]
     end
 ```
